@@ -2,10 +2,8 @@
  ## In this repository:
    - Upload your badge screenshots (e.g., in an `images/` folder) **or** include working badge URLs.
 
-1. **MongoDB Overview** (Badge Link)  
-   <https://learn.mongodb.com/courses/mongodb-overview>
-2. **Relational to Document Model** (Badge Link)  
-   <https://learn.mongodb.com/courses/relational-to-document-model>
+1. [**MongoDB Overview** (Badge Link)](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/00d0c689-99ef-4ec7-8ff7-dd85c0397782-ashley-mcgowan-b966499c-7147-4693-8711-cc00522d593b-certificate.pdf)
+2. [**Relational to Document Model** (Badge Link)](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/00d0c689-99ef-4ec7-8ff7-dd85c0397782-ashley-mcgowan-92e9d522-cf91-48e3-b3b7-3479ee110137-certificate.pdf)
 
 
 - A short written response (**max 4–6 sentences total**) addressing:
